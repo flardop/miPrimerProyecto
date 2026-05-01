@@ -1,2 +1,3 @@
 Objetivo 1: Aprender Git y control de versiones
 Objetivo 2: Dominar HTML, CSS y JavaScript
+Objetivo 3: Desarrollar proyectos Full Stack completos
